@@ -183,6 +183,8 @@ github.com/portcullis/logging v0.0.0-20200919063358-4abaef56dee5/go.mod h1:jZS5z
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
 github.com/renevo/bootstrap v0.2.0 h1:e4+sDR1d+1ianwSsH03r1tveZnC3sT1mJQL7ga4rH0o=
 github.com/renevo/bootstrap v0.2.0/go.mod h1:ZoDZ6vRxUbMlTA5Axa3U9JXRFfoGS5q626FJm1lh4yk=
+github.com/renevo/bootstrap v0.2.1 h1:0CX9Gu5tgnG8WKbe9FntZT7PMqovLEPqdYJnjCTIug0=
+github.com/renevo/bootstrap v0.2.1/go.mod h1:ZoDZ6vRxUbMlTA5Axa3U9JXRFfoGS5q626FJm1lh4yk=
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/sergi/go-diff v1.0.0 h1:Kpca3qRNrduNnOQeazBd0ysaKrUJiIuISHxogkT9RPQ=

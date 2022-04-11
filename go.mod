@@ -2,7 +2,7 @@ module github.com/renevo/blizzardbound.com
 
 go 1.17
 
-require github.com/renevo/bootstrap v0.2.0
+require github.com/renevo/bootstrap v0.2.1
 
 require (
 	github.com/agext/levenshtein v1.2.3 // indirect
